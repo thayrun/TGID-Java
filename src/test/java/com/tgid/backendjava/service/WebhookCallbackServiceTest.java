@@ -20,6 +20,5 @@ public class WebhookCallbackServiceTest {
         // Envia o callback
         callbackService.sendCallback(transactionInfo);
         
-        // Aqui você pode adicionar verificações adicionais, se necessário
     }
 }
